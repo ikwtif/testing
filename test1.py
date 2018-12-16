@@ -5,4 +5,4 @@ print('test branch')
 
 print('test merge')
 
-print('branch1')
+print('branch1.')
